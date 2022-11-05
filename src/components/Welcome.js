@@ -1,5 +1,4 @@
 // write code for Welcome component here
-
 import React from 'react' ;
 
 function Welcome(props){
@@ -11,5 +10,5 @@ function Welcome(props){
 </div>
 );
 }
+export default Welcome ;
 
-export dafault Welcome ;
